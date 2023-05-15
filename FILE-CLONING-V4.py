@@ -152,7 +152,7 @@ def reg2():
     print (' Token : ' + id)
     print(' Facebook : pompomLover')
     input(' Press Enter To Get Approval \033[1;92m(FOR FREE) ')
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100086252664602")
+    os.system("xdg-open https://www.facebook.com/groups/itz.jisan.termux.zone/")
     sav = open('/sdcard/Android/.bs7nt.txt', 'w')
     sav.write(id)
     sav.close()
